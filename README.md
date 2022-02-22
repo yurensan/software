@@ -71,3 +71,38 @@ KeePass：小巧、绿色且开源的密码管理工具。
 github地址：https://github.com/dlech/KeePass2.x
 
 官网：https://keepass.info/
+
+
+
+# 10.画图工具
+
+drawio：一款基于Electron的绘图和白板桌面应用程序，包装了draw.io的核心绘图逻辑。
+
+github地址：https://github.com/jgraph/drawio-desktop
+
+
+
+dia：是一个绘制图表的程序，属于GNU计划中的开源软件。
+github地址：https://github.com/GNOME/dia
+
+
+
+# 11.思维导图工具
+
+FreeMind：用Java语言编写的高级思维导图软件。
+源码地址：https://sourceforge.net/p/freemind/code/ci/1.1.0/tree/
+
+
+
+# 附录：免费但没开源的工具
+
+Snipaste：截图软件。
+
+官网：https://www.snipaste.com/
+
+Everything：Windows系统上文件搜索软件。
+
+官网：https://www.voidtools.com
+
+
+
