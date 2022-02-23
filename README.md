@@ -83,6 +83,7 @@ github地址：https://github.com/jgraph/drawio-desktop
 
 
 dia：是一个绘制图表的程序，属于GNU计划中的开源软件。
+
 github地址：https://github.com/GNOME/dia
 
 
@@ -90,6 +91,7 @@ github地址：https://github.com/GNOME/dia
 # 11.思维导图工具
 
 FreeMind：用Java语言编写的高级思维导图软件。
+
 源码地址：https://sourceforge.net/p/freemind/code/ci/1.1.0/tree/
 
 
@@ -105,6 +107,7 @@ github地址：https://github.com/ShareX/ShareX
 # 13.桌面端效率工具
 
 rubick：基于 electron 的开源工具箱，自由集成丰富插件，打造极致的桌面端效能工具。
+
 github地址：https://github.com/rubickCenter/rubick
 
 
