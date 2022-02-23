@@ -94,13 +94,36 @@ FreeMind：用Java语言编写的高级思维导图软件。
 
 
 
+# 12.截图录屏工具
+
+ShareX：一款捕获或录制屏幕上任何区域的应用程序，还能将图像、文本或其他类型的文件上传到许多支持的网站。
+
+github地址：https://github.com/ShareX/ShareX
+
+
+
+# 13.桌面端效率工具
+
+rubick：基于 electron 的开源工具箱，自由集成丰富插件，打造极致的桌面端效能工具。
+github地址：https://github.com/rubickCenter/rubick
+
+
+
+# 14.文本编辑工具
+
+Notepad++：编辑器和记事本替代品，支持多种编程语言和自然语言。
+
+github地址：https://github.com/notepad-plus-plus/notepad-plus-plus
+
+
+
 # 附录：免费但没开源的工具
 
-Snipaste：截图软件。
+**Snipaste**：截图软件。
 
 官网：https://www.snipaste.com/
 
-Everything：Windows系统上文件搜索软件。
+**Everything**：Windows系统上文件搜索软件。
 
 官网：https://www.voidtools.com
 
