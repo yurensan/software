@@ -16,6 +16,12 @@ github地址：https://github.com/umlet/umlet
 
 
 
+StarUML：UML建模工具，支持类图、时序图、用例图等十几种图形模式。
+
+sourceforge地址：https://sourceforge.net/projects/staruml/
+
+
+
 # 3.解压缩工具
 
 7-Zip：是一种具有高压缩比的文件归档程序。
@@ -56,11 +62,17 @@ github地址：https://github.com/d2phap/ImageGlass
 
 
 
-# 8.PDF阅读器
+# 8.PDF工具
 
 sumatrapdf：一种多格式（PDF、EPUB、MOBI、FB2、CHM、XPS、DjVu）的运行在Windows系统的文档阅读器。
 
 github地址：https://github.com/sumatrapdfreader/sumatrapdf
+
+
+
+PDFPatcher：编辑PDF文档、合并已有 PDF文档或图片、导出PDF文档的图片、提取或删除PDF文档中指定的页面、分析PDF文档结构。
+
+github地址：https://github.com/wmjordan/PDFPatcher
 
 
 
@@ -96,6 +108,12 @@ FreeMind：用Java语言编写的高级思维导图软件。
 
 
 
+blink-mind-desktop：开源的思维导图和大纲视图应用程序。
+
+github地址：https://github.com/awehook/blink-mind-desktop
+
+
+
 # 12.截图录屏工具
 
 ShareX：一款捕获或录制屏幕上任何区域的应用程序，还能将图像、文本或其他类型的文件上传到许多支持的网站。
@@ -117,6 +135,33 @@ github地址：https://github.com/rubickCenter/rubick
 Notepad++：编辑器和记事本替代品，支持多种编程语言和自然语言。
 
 github地址：https://github.com/notepad-plus-plus/notepad-plus-plus
+
+
+
+VSCode：现代化轻量级跨平台的代码编辑器编辑器，基于 Electron 开发，有丰富的插件生态。
+
+github地址：https://github.com/Microsoft/vscode
+
+
+
+# 15.系统增强工具
+PowerToys：Windows平台的系统增强工具、颜色选择器、全窗口管理器、快捷键管理器、电池追踪器、批量重命名文件、无需聚焦的鼠标事件、快速启动命令行。
+
+github地址：https://github.com/microsoft/PowerToys
+
+
+
+# 16.知识管理工具
+
+leanote：跨平台开源的云笔记软件，支持团队协同，企业级私有云。
+
+github地址：https://github.com/leanote/leanote
+
+
+
+Joplin：跨平台的笔记应用，也是高效的待办事项工具和生产力工具，可以用标签或笔记本进行分类整理，支持 Markdown语法，支持网盘同步。
+
+github地址：https://github.com/laurent22/joplin
 
 
 
